@@ -1,4 +1,4 @@
-# POAP Platform on Stacks Blockchain
+# POAP Platform on STX Blockchain
 
 A decentralized community engagement platform built on the Stacks blockchain featuring POAP (Proof of Attendance Protocol) NFTs, on-chain governance voting, community posts, and milestone tracking.
 
